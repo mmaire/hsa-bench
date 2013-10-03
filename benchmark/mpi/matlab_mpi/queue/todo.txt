@@ -1,0 +1,6 @@
+Todo (requires MPI hacking or rewriting):
+ -dynamic slave add / kill
+ -allow for multiple controllers
+ -pass variable into queue from controller
+ -dynamically assigned ranks? more general...
+ -setCommDir in controller (right now can't communicate to queue)
