@@ -38,7 +38,12 @@ Shore Dataset Images
 
 We are able to redistribute the original images of the Shore dataset free of
 charge, but for the purpose of research use only.  To obtain a copy of the
-images, please contact Michael Maire via email: mmaire@gmail.com.
+images, please use the following form to submit your request:
+
+https://docs.google.com/forms/d/1CNqyGc23VuIyokwkC7sHyk5YMhtMUrz4HBiaQn4zsis/viewform
+
+If you do not receive a response within one business day, please contact
+Michael Maire via email: mmaire@gmail.com.
 
 The benchmark code expects the image .jpg files to reside in:
 `datasets/shore/images/`
